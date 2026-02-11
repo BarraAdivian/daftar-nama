@@ -13,7 +13,9 @@ export default defineConfig({
         task: "task.html",
         tugas: "tugas.html",
         note: "note.html",
-        santri: "santri.html"
+        santri: "santri.html",
+        profile: "profile.html",
+        siswa: "siswa.html"
       }
     }
   }
